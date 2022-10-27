@@ -1,4 +1,4 @@
-package stacker.rpn.lexer;
+package rpnstacker.lexer
 
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
