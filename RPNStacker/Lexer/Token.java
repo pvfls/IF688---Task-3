@@ -14,7 +14,7 @@
  *     http://www.cin.ufpe.br/~hemr/
  * ******************************************************************/
 
-package projects.rpnstacker2.lexer;
+package rpnstacker.lexer;
 
 /**
  * @author Henrique Rebelo
